@@ -27,7 +27,7 @@ import { remarkMermaid } from "./src/plugins/remark-mermaid.js";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 // https://astro.build/config
 export default defineConfig({
-	site: "https://pitysatr.pages.dev/",
+	site: "https://pitysatr.netlify.app/",
 
 	base: "/",
 	trailingSlash: "always",
